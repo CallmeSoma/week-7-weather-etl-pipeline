@@ -93,5 +93,5 @@ The analysis of the collected weather data produced the following findings:
 - **Abuja recorded a temperature of 24.79°C.**
 - **Port Harcourt recorded the lowest temperature** at 23.41°C.
 - **Port Harcourt had the highest humidity** at 92%.
-- **Lagos and Port Harcourt recorded cloudy conditions**, while Abuja recorded cloudy conditions.
+- **Lagos and Port Harcourt recorded cloudy conditions**, while Abuja recorded rainy condition.
 
