@@ -89,9 +89,8 @@ The saved CSV file was then loaded back into Python to confirm that the data had
 
 The analysis of the collected weather data produced the following findings:
 
-- **Lagos recorded the highest temperature** at 26.46°C.
-- **Abuja recorded a temperature of 26.06°C.**
-- **Port Harcourt recorded the lowest temperature** at 24.63°C.
-- **Port Harcourt had the highest humidity** at 89%.
-- **Lagos and Abuja recorded cloudy conditions**, while Port Harcourt recorded rainy condition.
-
+- **Port Harcourt recorded the highest temperature** at 23.64°C.
+- **Lagos recorded a temperature of 23.41°C.**
+- **Abuja recorded the lowest temperature** at 20.81°C.
+- **Lagos had the highest humidity** at 94%.
+- **Lagos, Port Harcourt and Abuja recorded cloudy conditions**
